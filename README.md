@@ -1,1 +1,1 @@
-# Bittyconomy Bot Website
+# Infinity Bot Website
