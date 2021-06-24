@@ -1,1 +1,1 @@
-# Infinity Bot Website
+# Infinity Discord Bot Website
